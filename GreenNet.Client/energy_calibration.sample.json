@@ -1,0 +1,10 @@
+{
+  "CpuWatts": 15.0,
+  "JoulePerByte": 2.0e-7,
+  "JoulePerPacket": 0.0,
+  "RefJoulePerMB": 5.0,
+  "Device": "Ten may do (vi du: Laptop Dell, i5-1135G7, Ethernet 1 Gbps)",
+  "MeasuredOn": "2026-10-28",
+  "Method": "Smart plug 1 Hz, tru nang luong nghi, hoi quy OLS",
+  "R2": 0.0
+}
