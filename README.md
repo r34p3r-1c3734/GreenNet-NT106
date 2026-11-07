@@ -183,5 +183,3 @@ Khi chưa hiệu chỉnh, chỉ nên kết luận theo hướng so sánh tương
 - UDP chỉ hỗ trợ IPv4 và chưa có kiểm soát tắc nghẽn: phù hợp mạng LAN và thí nghiệm. Logic UDP mới được kiểm bằng mô phỏng, cần thử thêm trên mạng thật.
 - Chỉ truyền file; chưa có luồng video hoặc âm thanh.
 - Mã nguồn cần được biên dịch và kiểm thử đầy đủ trên máy thật trước khi nộp hoặc triển khai.
-# greennet
-# greennet
